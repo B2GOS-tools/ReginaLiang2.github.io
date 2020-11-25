@@ -1,0 +1,26 @@
+{
+    "short_name": "Website",
+    "name": "Website:new-portal-engine",
+    "description": "new-portal-engine",
+    "type": "web",
+    "icons": [
+        {
+            "src": "/icons/todo56.png",
+            "sizes": "56x56",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/todo84.png",
+            "sizes": "84x84",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/todo112.png",
+            "sizes": "112x112",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#3367D6",
+    "display": "standalone"
+}
